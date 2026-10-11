@@ -1,0 +1,1 @@
+# phishguard-scam-link-checker
